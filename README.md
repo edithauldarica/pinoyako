@@ -1,1 +1,1 @@
-_Repository for a certain project_
+_Repository for certain projects_
