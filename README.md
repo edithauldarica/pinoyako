@@ -1,1 +1,1 @@
-_Repository for certain projects_
+_Repository for personal projects_
